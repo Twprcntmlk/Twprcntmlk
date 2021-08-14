@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **YGO Gacha Game**
 
-- 🤝 I’m looking for help with **Kupernetes**
+- 🤝 I’m looking for help with **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://twprcntmlk.github.io/](https://twprcntmlk.github.io/)
 
