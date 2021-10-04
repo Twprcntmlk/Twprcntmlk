@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Jino Choung</h1>
-<h3 align="center">A passionate frontend developer from New Jersey</h3>
+<h3 align="center">A passionate software developer from New Jersey</h3>
 
 - 🔭 I’m currently working on **YGO Gacha Game**
 
