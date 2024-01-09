@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stephen Jino Choung</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
 
-- 🔭 I’m currently working on **YGO Gacha Game**
+- 🔭 I’m currently working on **Developing Medical Questions and Images Based on AI**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 👯 I’m looking to collaborate on **YGO Gacha Game**
+- 👯 I’m looking to collaborate on **Developing Medical Questions and Images Based on AI**
 
 - 🤝 I’m looking for help with **Kubernetes**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://twprcntmlk.github.io/](https://twprcntmlk.github.io/)
 
-- ⚡ Fun fact **I am Strongest 1Kyu**
+- ⚡ Fun fact **I am Passonate About Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
